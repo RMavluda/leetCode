@@ -7,11 +7,13 @@ I use Java to implement the algorithms.
 
 1. [TwoSum](https://leetcode.com/problems/two-sum/) - Easy
 2. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) - Easy
+3. [Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) - Easy
 
 ## Topics
 
 - Array
 - Hash Table
+- Math
 
 ## How to Use
 
