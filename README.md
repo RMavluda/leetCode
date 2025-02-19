@@ -15,8 +15,8 @@ I use Java to implement the algorithms.
 - Array
 - Hash Table
 - Math
--String
--Trie
+- String
+- Trie
 
 ## How to Use
 
