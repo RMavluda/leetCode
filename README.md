@@ -6,9 +6,10 @@ I use Java to implement the algorithms.
 ## Solved problems
 
 1. [TwoSum](https://leetcode.com/problems/two-sum/) - Easy
-2. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) - Easy
-3. [Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) - Easy
-4. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) - Easy
+2. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - Easy
+3. [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) - Easy
+4. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy
+5. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - Easy
 
 ## Topics
 
@@ -17,6 +18,7 @@ I use Java to implement the algorithms.
 - Math
 - String
 - Trie
+- Stack
 
 ## How to Use
 
