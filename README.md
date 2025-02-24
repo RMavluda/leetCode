@@ -10,6 +10,7 @@ I use Java to implement the algorithms.
 3. [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) - Easy
 4. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy
 5. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - Easy
+6. [Plus One](https://leetcode.com/problems/plus-one/description/) - Easy
 
 ## Topics
 
