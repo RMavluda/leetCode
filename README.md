@@ -11,6 +11,7 @@ I use Java to implement the algorithms.
 4. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy
 5. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - Easy
 6. [Plus One](https://leetcode.com/problems/plus-one/description/) - Easy
+7. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) - Easy
 
 ## Topics
 
