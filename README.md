@@ -17,6 +17,7 @@ I use Java to implement the algorithms.
 10. [Remove Element](https://leetcode.com/problems/remove-element/description/) - Easy
 11. [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/description/) - Easy
 12. [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) - Easy
+13. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) - Easy
 
 ## Topics
 
